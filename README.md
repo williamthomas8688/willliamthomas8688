@@ -10,4 +10,4 @@ Hi there my name is William
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-[<img align="left" alt="William | LinkedIn" width="22px" src="https://www.linkedin.com/in/william-thomas-661bb6197/" />][linkedin]
+[<img align="left" alt="William | LinkedIn" width="22px" src="https://www.linkedin.com/in/william-thomas-661bb6197/.svg" />][linkedin]
