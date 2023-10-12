@@ -2,7 +2,7 @@ Hi there my name is William
 <h2>Chicken and Fries:</h2>
 
 <p align="center">
-<img src="https://www.pexels.com/photo/18724148/" alt="Chicken and fries"/>
+<img src="https://imgur.com/undefined" alt="Chicken and fries"/>
 </p>
 <br />
 
